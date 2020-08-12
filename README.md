@@ -1,5 +1,5 @@
 # hello-world
-just another repository
+JUST ANOTHER REPOSITORY
 
 Hi Humans!
 I'm Fehyee. I love "data science".
