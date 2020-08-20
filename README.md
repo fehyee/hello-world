@@ -1,7 +1,5 @@
-# hello-world
-JUST ANOTHER REPOSITORY
+# My-First-Repository
 
-Hi Humans!
-I'm Fehyee. I love "data science".
-I'm still a student though.
-I'm a Nigerian
+This is my first repository
+created with the help of hello-world.
+(The link is located in the git hub interface)
